@@ -1,0 +1,2 @@
+cam2: 0.25,0.5, threshold=0.25
+cam1: 0.25,0.6, threshold=0.3
